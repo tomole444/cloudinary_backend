@@ -46,9 +46,9 @@ mongoose.connection.on("connected", (connected) => {
 
 // Cloudinary Configuration.
 cloudinary.config({
-  cloud_name: "dw9a3qwy2",
-  api_key: "898581811833534",
-  api_secret: "Ge99Cczrz-zruvHbL-i38ZSXSlQ",
+  cloud_name: "CLOUD NAME",
+  api_key: "API KEY",
+  api_secret: "API-SECRET",
 });
 
 
